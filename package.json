@@ -1,0 +1,24 @@
+{
+  "name": "04_prueba-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js",  
+    "star": "node index.js"        
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenpachiBarrera/04_prueba-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenpachiBarrera/04_prueba-/issues"
+  },
+  "homepage": "https://github.com/KenpachiBarrera/04_prueba-#readme",
+  "dependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
